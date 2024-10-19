@@ -5,10 +5,15 @@ This project focuses on building a **Content Recommendation System** for YouTube
 
 ## Features
 
-- **Recommendation Algorithm**: Recommends YouTube channels and videos based on user preferences and streamer performance.
-- **Performance Metrics**: Utilizes various metrics like views, engagement rates, and growth to evaluate streamers.
-- **Data Processing**: Cleans and processes raw data from YouTube API for analysis and recommendation purposes.
-- **Visualization**: Includes graphs and plots to visualize streamer performance and content trends.
+- Rank: The ranking of the YouTuber.
+- Username: The name of the YouTube channel.
+- Categories: The content categories (some entries are missing).
+- Subscribers: The number of subscribers (in float format).
+- Country: The country where the channel is based.
+- Visits: The total visits to the channel.
+- Likes: The total likes on the channel's videos.
+- Comments: The total number of comments.
+- Links: The URL link to the YouTube channel.
 
 # Guidelines for Project Components:
  
