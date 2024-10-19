@@ -47,38 +47,11 @@ marketing campaigns.
 -**Design and implement a recommendation system that suggests channels and videos based on
 User's watch history and preferred categories and Streamer performance within those categories.**
 
-## Installation
-
-1. Clone the repository:
-   \`\`\`bash
-   git clone https://github.com/yourusername/YT_Streamer.git
-   cd YT_Streamer
-   \`\`\`
-
-2. Install dependencies:
-   \`\`\`bash
-   pip install -r requirements.txt
-   \`\`\`
-
-3. Run the Jupyter Notebook:
-   \`\`\`bash
-   jupyter notebook YT_Streamer.ipynb
-   \`\`\`
 
 ## Usage
 
 1. **Run the notebook**: Open the `YT_Streamer.ipynb` in Jupyter and run each cell to load the data, process it, and generate recommendations.
 2. **Modify recommendations**: You can tweak the recommendation logic by adjusting the performance metrics or filtering criteria in the code.
-
-## Key Sections
-
-- **Data Collection**: Fetch data from the YouTube API for streamers.
-- **Data Processing**: Clean and prepare the data for analysis.
-- **Recommendation System**: Implement the recommendation engine based on user categories and streamer performance.
-- **Visualizations**: Graphical insights into streamer performance.
-
-
-
 
 
 # Contact
