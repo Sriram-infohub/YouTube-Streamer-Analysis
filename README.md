@@ -10,6 +10,43 @@ This project focuses on building a **Content Recommendation System** for YouTube
 - **Data Processing**: Cleans and processes raw data from YouTube API for analysis and recommendation purposes.
 - **Visualization**: Includes graphs and plots to visualize streamer performance and content trends.
 
+# Guidelines for Project Components:
+ 
+## 1.DATA EXPLORATION
+- Start by exploring the dataset to understand its structure and identify key variables.
+- Check for missing data and outliers.
+## 2.Finding Outliers using Boxplot
+![image](https://github.com/user-attachments/assets/009636bc-f226-4624-8c83-3bd1c0ebc0f5)
+## 3.Trend Analyisis
+- Identify trends among the top YouTube streamers. Which categories are the most popular?
+- Is there a correlation between the number of subscribers and the number of likes or comments?
+![image](https://github.com/user-attachments/assets/295fc6b2-0502-46f6-ba70-6c2ed2c5d2b1)
+- **correlation**
+- ![image](https://github.com/user-attachments/assets/fa8fbccb-cd1d-4577-af77-d4a18416c687)
+## 4.Audience Study
+- Analyze the distribution of streamers' audiences by country. Are there regional preferences for
+specific content categories?
+## 5.Performance Metrics
+- Calculate and visualize the average number of subscribers, visits, likes, and comments.
+- Are there patterns or anomalies in these metrics?
+- ![image](https://github.com/user-attachments/assets/c341af54-32c0-413f-b6a4-ea695601779e)
+## 6.Content Categories
+- Explore the distribution of content categories. Which categories have the highest number of
+streamers?
+- Are there specific categories with exceptional performance metrics?
+## 7.Brands and Collaborations
+- Analyze whether streamers with high performance metrics receive more brand collaborations and
+marketing campaigns.
+- ![image](https://github.com/user-attachments/assets/4f43cc57-a1d5-449e-9837-f3944fbb8162)
+## 8.Benchmarking
+- Identify streamers with above-average performance in terms of subscribers, visits, likes, and comments.
+- Who are the top-performing content creators?
+## 9.Content Recommendations
+-Propose a system for enhancing content recommendations to YouTube users based on streamers categories and performance metrics
+
+-**Design and implement a recommendation system that suggests channels and videos based on
+User's watch history and preferred categories and Streamer performance within those categories.**
+
 ## Installation
 
 1. Clone the repository:
@@ -40,24 +77,10 @@ This project focuses on building a **Content Recommendation System** for YouTube
 - **Recommendation System**: Implement the recommendation engine based on user categories and streamer performance.
 - **Visualizations**: Graphical insights into streamer performance.
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch:
-   \`\`\`bash
-   git checkout -b feature_branch
-   \`\`\`
-3. Make your changes and commit:
-   \`\`\`bash
-   git commit -m "Add your message here"
-   \`\`\`
-4. Push to your branch:
-   \`\`\`bash
-   git push origin feature_branch
-   \`\`\`
-5. Create a pull request.
 
 
-## Contact
+
+
+# Contact
 
 For any questions or issues, feel free to reach out to [sriramkannanofficial@gmail.com] or open an issue on GitHub.
