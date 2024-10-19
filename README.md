@@ -1,5 +1,5 @@
 
-# YouTube Streamer Recommendation System
+# YouTube Streamer Analysis
 
 This project focuses on building a **Content Recommendation System** for YouTube users based on streamers' performance metrics and user preferences. It aims to enhance the user experience by suggesting channels and videos that align with the user’s watch history and preferred categories.
 
@@ -57,10 +57,7 @@ This project focuses on building a **Content Recommendation System** for YouTube
    \`\`\`
 5. Create a pull request.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or issues, feel free to reach out to [your email] or open an issue on GitHub.
+For any questions or issues, feel free to reach out to [sriramkannanofficial@gmail.com] or open an issue on GitHub.
